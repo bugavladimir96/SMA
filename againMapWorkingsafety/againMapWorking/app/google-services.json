@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "646360791895",
+    "firebase_url": "https://ismapworking.firebaseio.com",
+    "project_id": "ismapworking",
+    "storage_bucket": "ismapworking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646360791895:android:4cf651667f030852",
+        "android_client_info": {
+          "package_name": "com.example.timibaba.againmapworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646360791895-okhkhvgejhjo0vu2hu09meuji0gerlfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timibaba.againmapworking",
+            "certificate_hash": "b759d7f2e0d173f8a0cf97cf94217cd6091d10f3"
+          }
+        },
+        {
+          "client_id": "646360791895-4f3pjl0slamqaqehda27goacm55odpdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timibaba.againmapworking",
+            "certificate_hash": "c381f9c2224a9366b33f955277ea5eaa1f15df0c"
+          }
+        },
+        {
+          "client_id": "646360791895-v3qv87ri8f5c5tebc82adhuae4b4aj8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGy-1mPhUW70R2JcEqU5nKWqrp0h4sGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646360791895-v3qv87ri8f5c5tebc82adhuae4b4aj8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
